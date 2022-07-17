@@ -70,6 +70,7 @@ struct TweetRowView: View {
                 }
                 
             }.padding(7)
+                .foregroundColor(.gray)
             Divider()
         }.padding()
     }
